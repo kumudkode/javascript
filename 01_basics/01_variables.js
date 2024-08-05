@@ -7,8 +7,8 @@
 const accountId = 12345
 //accountId = 3 // not allowed to change cause we use ...const...
 
-let accountEmail = "kumud@gmail.com"
-accountEmail = "raj@gmail.com"// allowed and can be changes
+let accountEmail = "ram@gmail.com"
+accountEmail = "ram@gmail.com"// allowed and can be changes
 
 var accountPassword = "1234"
 accountPassword = "12"//allowed to changes
@@ -52,7 +52,7 @@ but in current time only "let" use for defining variable🫡
  and if you dont define variable it is "undefined" in js example:
  */
 let name;
-name = "kumud";
+name = "ram";
 console.log(name);
 
 
