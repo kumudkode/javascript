@@ -1,7 +1,7 @@
 # javascript
 A code repo in which we will go through all the concept of javascript from basic....
 #1st 
-Open the COdespace and then you have to setup the environment for node js
+Open the Codespace and then you have to setup the environment for node js
 ==>steps for setting environment of node.js
 -> Open Command Pallet or Ctrl+ shift+p for Windows
 -> >container
