@@ -5,6 +5,8 @@
 //alert( 3 + 3 ) // we are using nodejs not browser u can use alert command in browser
 // code readibility should be high so dont use too much spaces or too low spaces in code
 
+//"mdn javascript" just for learning but "tc39.es" ecma script are the original page for javascript for specification or standards
+
 // DATA - TYPES
 console.log("kumud");
 let name = "karan"
@@ -12,8 +14,9 @@ let age = 20
 let isloggedIn = false
 
 //TYPES FOR DATA-TYPES
-/* #Primitive Data-Types
-
+//------------------------
+/* #Primitive Data-Types |
+//------------------------
 // Number = 2 to power 53 its number limit
 let age = 30;
 let price = 19.99;
@@ -29,7 +32,7 @@ let phrase = `can embed ${str}`;
 // Boolean => true/false
 Examples: let isAdmin = true;
 
-// Null => its an object... and standalone value or empty value.. and also its not undefined its defined but empty.
+// Null => its an object... and standalone value or empty value.. and also its defined but empty.
 Examples: let nonexistentValue = null;
 
 // Undefined => value is not defined when variable declared without value
@@ -38,9 +41,9 @@ let name;
 // Symbol => for uniqueness finding 
 let id = Symbol('uniqueId');
 */
-
-/* #NonPrimitive Data-Types
-
+//--------------------------
+/* #NonPrimitive Data-Types |
+//--------------------------
 //Object: COllection of Key value pairs, often used to represent complex data structure.Example:
 let person = { name: 'John', age: 30 };
 
